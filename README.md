@@ -27,13 +27,26 @@ This is a 200 lines implementation of Twitter/Cornell-Movie Chatbot, please read
 ```
 python3 main.py
 ```
+<table class="image">
+<div align="center">
+    <img src="https://github.com/Gowtham171996/ChatBot-Tensorflow-CNN-CornellCorpus/blob/master/images/Train.PNG"/>  
+    <br>  
+    <em align="center"></em>  
+</div>
+</table>
 
 ### Testing
 
 ```
 python3 Chatwithbot.py
 ```
-
+<table class="image">
+<div align="center">
+    <img src="https://github.com/Gowtham171996/ChatBot-Tensorflow-CNN-CornellCorpus/blob/master/images/Chat.PNG"/>  
+    <br>  
+    <em align="center"></em>  
+</div>
+</table>
 
 ### Results
 
