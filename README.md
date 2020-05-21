@@ -28,19 +28,25 @@ This is a 200 lines implementation of Twitter/Cornell-Movie Chatbot, please read
 python3 main.py
 ```
 
+### Testing
+
+```
+python3 Chatwithbot.py
+```
+
 
 ### Results
 
 ```
-Query > happy birthday have a nice day
- > thank you so much
- > thank babe
- > thank bro
- > thanks so much
- > thank babe i appreciate it
-Query > donald trump won last nights presidential debate according to snap online polls
- > i dont know what the fuck is that
- > i think he was a racist
- > he is not a racist
- > he is a liar
- > trump needs to be president
+Welcome to Chatbot
+Hi, I am Chatbot.
+do you listen to this crap?
+ > what about your people
+no they wont listen
+ > i dont think so
+really they wont listen
+ > why dont you ask them
+ok i will ask them then
+ > so what makes you think i think its a true idea
+well i believe in you
+ > i suppose i did
